@@ -1,4 +1,4 @@
-# LCSS
+# LCSSA
 Lossy Counting - Space Saving Algorithm
 
 It's a algorithm about "Frequent Pattern Mining in Data Streams"
